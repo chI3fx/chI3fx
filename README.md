@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 👋 Hi, I’m @chI3fx  
-👀 I’m interested in Cloud and Network Security and Forensics  
+👀 I am interested in cloud computing, network security, and digital forensics.  
 🌱 I’m currently learning C# and .NET Framework  
 💞️ I’m looking to collaborate on anything partaining to my interests  
 📫 How to reach me ... xchi3fnetx@proton.me  
